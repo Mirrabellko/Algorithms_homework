@@ -37,5 +37,3 @@ def count_customers(birthday_list: list):
             count += 1
     return count
 
-
-#print(count_customers(['14.11.1990', '17.02.2022', '16.08.2010']))
